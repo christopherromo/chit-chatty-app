@@ -71,6 +71,12 @@
 
 9. Access the app at `http://127.0.0.1:8000`.
 
+## Quick Look 🎥
+
+<p align="center">
+  <img src="./resources/chit-chatty-quick-look.gif" alt="Chit-Chatty Quick Look"/>
+</p>
+
 ---
 
 # ٩( ᐛ)و
